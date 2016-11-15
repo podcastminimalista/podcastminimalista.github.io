@@ -1,8 +1,7 @@
 # Site settings
 title: Podcast
-email: blog@minimal.com
 description: "Esse é um podcast minimalista."
-twitter_username: podcast_twitter
+username: Podcast Minimalista
 
 # Build settings
 markdown: kramdown
